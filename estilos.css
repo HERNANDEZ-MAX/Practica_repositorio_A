@@ -1,0 +1,12 @@
+body{
+    background-color: gray;
+    padding:10px;
+    color:black;
+    font-family: arial;
+    text-align:center;
+    
+}
+div{
+    margin: 250px;
+    background-color: Aqua;
+}
